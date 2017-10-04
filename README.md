@@ -1,2 +1,2 @@
 # zaqueu-api
-Sistema de Administração Igrejas
+Sistema de Administração de Igrejas
